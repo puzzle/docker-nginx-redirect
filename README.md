@@ -1,4 +1,4 @@
-# docker-nginx-redirect-301
+# docker-nginx-redirect
 
 ## Environment Variables
 
